@@ -20,5 +20,5 @@ If the random word contains that alphabet, it will be shown as the output(with c
 User will be given 12 turns(can be changed accordingly) to guess the complete word.
 
 ### A Sample Output:
-[Sample-Output for Word Guess Game.txt](https://github.com/ArfaIram011/Word-Guess-Game-Using-Python/files/11734662/Sample-Output.for.Word.Guess.Game.txt)
+(https://drive.google.com/file/d/1aXp2ZFtMmNH0DMsoSp2wbuFuGi0o0t5w/view?usp=drive_link)
 
