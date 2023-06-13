@@ -18,3 +18,173 @@ In this game, there is a list of words present, out of which our interpreter wil
 The user first has to input their names and then, will be asked to guess any alphabet. 
 If the random word contains that alphabet, it will be shown as the output(with correct placement) else the program will ask you to guess another alphabet. 
 User will be given 12 turns(can be changed accordingly) to guess the complete word.
+
+### A Sample Output:
+What is your name? Amelia
+Good Luck !  Amelia
+Guess the characters
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+guess a character:g
+_
+_
+_
+g
+_
+_
+_
+_
+_
+_
+g
+guess a character:a
+_
+_
+_
+g
+_
+a
+_
+_
+_
+_
+g
+guess a character:e
+Wrong
+You have 11 more guesses
+_
+_
+_
+g
+_
+a
+_
+_
+_
+_
+g
+guess a character:n
+_
+_
+_
+g
+_
+a
+_
+_
+_
+n
+g
+guess a character:i
+_
+_
+_
+g
+_
+a
+_
+_
+i
+n
+g
+guess a character:t
+Wrong
+You have 10 more guesses
+_
+_
+_
+g
+_
+a
+_
+_
+i
+n
+g
+guess a character:o
+_
+_
+o
+g
+_
+a
+_
+_
+i
+n
+g
+guess a character:k
+Wrong
+You have 9 more guesses
+_
+_
+o
+g
+_
+a
+_
+_
+i
+n
+g
+guess a character:b
+Wrong
+You have 8 more guesses
+_
+_
+o
+g
+_
+a
+_
+_
+i
+n
+g
+guess a character:p
+p
+_
+o
+g
+_
+a
+_
+_
+i
+n
+g
+guess a character:r
+p
+r
+o
+g
+r
+a
+_
+_
+i
+n
+g
+guess a character:m
+p
+r
+o
+g
+r
+a
+m
+m
+i
+n
+g
+You Win
+The word is:  programming
