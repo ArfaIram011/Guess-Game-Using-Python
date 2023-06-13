@@ -19,6 +19,6 @@ The user first has to input their names and then, will be asked to guess any alp
 If the random word contains that alphabet, it will be shown as the output(with correct placement) else the program will ask you to guess another alphabet. 
 User will be given 12 turns(can be changed accordingly) to guess the complete word.
 
-### A Sample Output:
-(https://drive.google.com/file/d/1aXp2ZFtMmNH0DMsoSp2wbuFuGi0o0t5w/view?usp=drive_link)
+## A Sample Output:
+(https://drive.google.com/file/d/1aXp2ZFtMmNH0DMsoSp2wbuFuGi0o0t5w/view?usp=sharing)
 
